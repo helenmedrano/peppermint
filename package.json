@@ -1,0 +1,8 @@
+{
+  "name": "peppermint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:helenmedrano/peppermint.git",
+  "author": "Helen Medrano <helenmedranop@gmail.com>",
+  "license": "MIT"
+}
